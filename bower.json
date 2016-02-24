@@ -4,7 +4,7 @@
     "Tal Bronfer <tal.bronfer@safebreach.com>"
   ],
   "description": "An AngularJS directive allowing to create fuel-tank style progress bars",
-  "main": "",
+  "main": "angular-fuel-tank.directive.js",
   "moduleType": [],
   "keywords": [
     "angularjs",
