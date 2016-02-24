@@ -5,7 +5,7 @@
     'use strict';
     angular
         .module('ngFuelTank', [])
-        .directive('fuel-tank', ['$document', '$parse', fuelTank]);
+        .directive('fuelTank', ['$document', '$parse', fuelTank]);
 
     function fuelTank($document, $parse) {
         return {
