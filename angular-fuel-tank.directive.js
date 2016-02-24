@@ -27,6 +27,7 @@
             compile: function(elem, attrs) {
                 return function(scope) {
                     scope.fillHeight = scope.height / (100 / scope.fillPercentage);
+                    scope.$apply();
                 };
             }
         };
