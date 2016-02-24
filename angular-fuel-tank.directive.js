@@ -12,6 +12,7 @@
             restrict: 'E',
             templateNamespace: 'svg',
             templateUrl: 'fuel-tank.html',
+            replace: true,
             scope: {
                 fillPercentage: "="
             }
