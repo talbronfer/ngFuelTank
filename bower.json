@@ -1,0 +1,26 @@
+{
+  "name": "ngFuelTank",
+  "authors": [
+    "Tal Bronfer <tal.bronfer@safebreach.com>"
+  ],
+  "description": "An AngularJS directive allowing to create fuel-tank style progress bars",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "progress",
+    "bar",
+    "percentage",
+    "filled",
+    "circle"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
